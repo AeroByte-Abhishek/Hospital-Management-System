@@ -34,6 +34,8 @@ The application follows a modular design:
 - **Patient and Doctor Modules:** Contains functions for adding, viewing, and checking information.
 - **Database:** Interacts with MySQL database to store and retrieve data.
 
+  ![image alt](https://github.com/AeroByte-Abhishek/Hospital-Management-System/blob/main/HMS%20schema.png?raw=true)
+
 ## How to Contribute
 
 1. Fork the repository.
