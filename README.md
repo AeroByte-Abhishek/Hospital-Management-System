@@ -25,6 +25,8 @@ The database consists of three tables:
 - **Doctors:** Stores doctor information. The `Id` field is the Primary Key.
 - **Appointments:** Manages appointments. It links patients and doctors using `Patient Id` and `Doctor Id` as Foreign Keys referencing respective tables. The `Id` field is its Primary Key.
 
+  ![image alt](https://github.com/AeroByte-Abhishek/Hospital-Management-System/blob/main/HMS-Database%20schema.png?raw=true)
+
 ## System Architecture
 
 The application follows a modular design:
